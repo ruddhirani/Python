@@ -1,4 +1,9 @@
-This folder contain several Python files in the form of Assignments. <br>
-Each Assignment contains a Readme file and multiple tasks. <br>
-You can refer to the Readme for the Problem Statement and Expected Output for each task. <br>
-Each task with the reference number contains the solution of that task. <br>
+# 🐍 Python Repository
+
+This repository contains multiple Python Assignments **(Basic to Advanced Concepts)** organized into folders.  
+Each assignment folder consists of:
+
+- ✅ Multiple Python task files (e.g., `task1.py`, `task2.py`, etc.)
+- 📝 A `README.md` file describing the functionality of each task.
+
+---
