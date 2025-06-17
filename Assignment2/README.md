@@ -1,4 +1,4 @@
-# 🔢 Even or Odd Checker - Task
+# 🔢 Even or Odd Checker - Task 1
 
 ## 📋 Description
 
@@ -13,7 +13,7 @@ It uses the modulo operator `%` to determine the remainder when the number is di
 <img width="473" alt="t1" src="https://github.com/user-attachments/assets/49a42de7-3087-41ee-b378-b490e36de6a7" />
 
 
-# ➕ Sum of Numbers from 1 to 50 - Task
+# ➕ Sum of Numbers from 1 to 50 - Task 2
 
 ## 📋 Description
 
